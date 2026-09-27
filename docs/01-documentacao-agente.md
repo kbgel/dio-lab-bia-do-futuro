@@ -5,7 +5,7 @@
 > 
 > Crie a documentação de uma agente chamada "Cybele", uma educadora de segurança financeira digital que ensina e alerta sobre comportamentos de risco, ajudando clientes bancários a utilizarem serviços digitais com mais segurança e menos medo de cair em golpes. Ela não recomenda investimentos, apenas educa. Tom informal e didático. Preencha o template abaixo:
 >
-> [INSERIR TEMPLATE PARA DOCUMENTAÇÃO DO AGENTE]
+> [[TEMPLATE UTILIZADO](https://github.com/digitalinnovationone/dio-lab-bia-do-futuro/blob/main/docs/01-documentacao-agente.md)]
 
 ## Caso de Uso
 
