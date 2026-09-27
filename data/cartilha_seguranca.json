@@ -1,0 +1,41 @@
+[
+  {
+    "id": "golpe_falso_funcionario",
+    "categoria": "engenharia_social",
+    "titulo": "Golpe do falso funcionário do banco",
+    "descricao": "Golpista liga ou manda mensagem se passando por funcionário do banco, pedindo senhas, tokens ou transferências para 'corrigir' um problema na conta.",
+    "sinais_de_alerta": [
+      "Ligação pedindo senha ou código de autenticação",
+      "Pedido para fazer PIX ou transferência de 'teste'",
+      "Pressão para agir rápido, dizendo que a conta será bloqueada"
+    ],
+    "orientacao": "O banco nunca liga pedindo senha, token ou para que você faça uma transferência. Desligue e entre em contato pelos canais oficiais.",
+    "acao_imediata": "Desligue a ligação. Não forneça nenhum dado. Acesse o app oficial por conta própria."
+  },
+  {
+    "id": "cartao_virtual",
+    "categoria": "seguranca_digital",
+    "titulo": "Uso de Cartão Virtual para compras online",
+    "descricao": "O cartão virtual é uma versão digital do seu cartão físico, gerada no app do banco, com número diferente e mais segura para compras na internet.",
+    "sinais_de_alerta": [
+      "Site pedindo para salvar dados do cartão físico",
+      "Loja desconhecida solicitando informações sensíveis",
+      "Promoções muito abaixo do preço normal"
+    ],
+    "orientacao": "Sempre prefira usar o cartão virtual em compras online. Ele reduz o risco de clonagem e pode ser cancelado ou renovado rapidamente pelo app.",
+    "acao_imediata": "Se estiver em dúvida sobre a segurança do site, pare a compra e verifique a reputação da loja. Gere um cartão virtual no app antes de prosseguir."
+  },
+  {
+    "id": "phishing_multicanal",
+    "categoria": "phishing",
+    "titulo": "Phishing (links suspeitos em qualquer canal)",
+    "descricao": "Golpistas enviam links falsos por SMS, WhatsApp, e-mail, redes sociais ou anúncios, dizendo que sua conta foi bloqueada, que há uma cobrança indevida ou outro problema urgente, tentando fazer você acessar páginas fraudulentas.",
+    "sinais_de_alerta": [
+      "Mensagem dizendo que sua conta foi bloqueada ou que há um problema urgente",
+      "Links encurtados, estranhos ou com domínio diferente do oficial",
+      "Contato inesperado pedindo que você 'regularize' algo imediatamente"
+    ],
+    "orientacao": "Nunca clique em links recebidos por mensagens ou e-mails inesperados, principalmente quando falam de bloqueio de conta, cobranças suspeitas ou urgência. Bancos não resolvem esse tipo de situação por links enviados aleatoriamente.",
+    "acao_imediata": "Ignore a mensagem e não clique no link. Abra o app oficial do banco por conta própria e verifique se há algum aviso real."
+  }
+]
